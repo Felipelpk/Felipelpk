@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Felipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<!--
-**Felipelpk/Felipelpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer. Currently I'm working as Fullstack Developer at [**Singu**](https://www.linkedin.com/company/singu/mycompany/).
 
-Here are some ideas to get you started:
+#### My current tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📲 Front-end Mobile with React Native  
+🌎 Front-end Web with Reactjs  
+📡 Back-end with Nodejs  
+🛠️ Typescript  
+🧰 And more...  
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/felipelpk/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipealves.guaruja@gmail.com)](mailto:felipealves.guaruja@gmail.com)
+
+
